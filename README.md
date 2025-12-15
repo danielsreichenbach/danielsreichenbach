@@ -58,6 +58,7 @@ I help maintain the **wowemulation-dev** organization, focused on preserving WoW
 
 <a rel="me" href="https://mastodon.world/@danielsreichenbach">Mastodon</a> ·
 <a href="https://github.com/danielsreichenbach">GitHub</a> ·
+<a href="https://linkedin.com/in/danielsreichenbach">LinkedIn</a> ·
 <a href="https://kogito.network/">Website</a>
 
 ---
